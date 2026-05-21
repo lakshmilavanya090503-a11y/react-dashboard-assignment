@@ -46,7 +46,7 @@ src/
 
 Clone the repository:
 
-git clone YOUR_REPOSITORY_LINK
+git clone (https://github.com/lakshmilavanya090503-a11y/react-dashboard-assignment.git)
 
 Navigate into project folder:
 
